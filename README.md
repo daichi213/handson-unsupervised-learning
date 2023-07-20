@@ -39,8 +39,8 @@ If you wish use Google Colab (instead of your local machine), please follow [the
 
 以下で置換することで、Colabで開くことが可能
 
-https://github.com
-↓
+https://github.com  
+↓  
 https://colab.research.google.com/github
 
 ## Setup Main Conda Environment
