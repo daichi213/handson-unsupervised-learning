@@ -35,6 +35,14 @@ Author Ankur Patel provides practical knowledge on how to apply unsupervised lea
 
 If you wish use Google Colab (instead of your local machine), please follow [these instructions to run the code on Google Colab](https://colab.research.google.com/github/aapatel09/handson-unsupervised-learning/blob/master/google_colab_setup.ipynb).
 
+### memo
+
+以下で置換することで、Colabで開くことが可能
+
+https://github.com
+↓
+https://colab.research.google.com/github
+
 ## Setup Main Conda Environment
 
 If you wish to run this repo on your local machine, please follow these instructions below.
